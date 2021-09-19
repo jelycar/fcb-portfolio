@@ -4,5 +4,11 @@
 
 h1,
 h2 {font-family: 'Raleway', sans-serif;
-	
+
+}
+
+img {
+	height:  250px;
+	width: 250;
+	border-radius: 50%;
 }
